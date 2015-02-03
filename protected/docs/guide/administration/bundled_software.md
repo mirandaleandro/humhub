@@ -1,4 +1,4 @@
-Bundled Software / Libaries
+Bundled Software / Libraries
 ===========================
 
 * Yii Framework (Core Framework) http://www.yiiframework.com/ (protected/vendors/yii/LICENSE)
